@@ -7,5 +7,6 @@ const Collapsible = CollapsiblePrimitive.Root
 const CollapsibleTrigger = CollapsiblePrimitive.CollapsibleTrigger
 
 const CollapsibleContent = CollapsiblePrimitive.CollapsibleContent
+//collapsable
 
 export { Collapsible, CollapsibleTrigger, CollapsibleContent }
