@@ -19,6 +19,7 @@ const Avatar = React.forwardRef<
   />
 ))
 Avatar.displayName = AvatarPrimitive.Root.displayName
+//avatar
 
 const AvatarImage = React.forwardRef<
   React.ElementRef<typeof AvatarPrimitive.Image>,
